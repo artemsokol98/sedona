@@ -176,15 +176,18 @@ button:active span
   left: 0;
    }*/
 .forma{
-
+margin-left: auto;
+margin-right: auto;
      position: absolute;
      background-color: #ffffff;
      width:350px;
      height:400px;
-     left: 777px;
+     left: 41%;
+
      /*comment for check*/
     /*comment for check from notebook*/
    }
+
 .dannie
 {
  margin-top: 10px;
