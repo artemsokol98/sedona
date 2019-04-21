@@ -1,0 +1,272 @@
+
+body{
+  background-color: #f2f2f2;
+  list-style: none;
+  border: 0;
+}
+.color_under_letter_white{
+  background-color:#ffffff;
+}
+.color_under_letter_blue{
+  background-color:#81B3D2;
+}
+.color_under_letter_beige{
+  background-color:#eeeeee;
+}
+.color_under_letter_brown{
+  background-color:#766357;
+
+}
+.container {
+  list-style: none;
+  font-family: PTC55F;
+  text-align: center;
+  background-color: white;
+  color:black;
+  width:1200px;
+  height:50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: auto;
+  padding-inline-start: 0;
+}
+.container li{
+  padding: 50px;
+  list-style: none;
+  display: inline;
+  margin-top: 50px;
+
+}
+.color_href{
+  color:black;
+  text-decoration: none;
+
+}
+.foto_zagolovok{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width:1200px;
+  height:675px;
+}
+.foto_zagolovok_1{
+  width:1200px;
+}
+.text_zagolovka{
+  font-family: PTS55F;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  text-align: center;
+}
+.section_1 {
+  text-align: center;
+  height: 200px;
+  padding-top: 50px;
+  font-family: PTC55F;
+  background-color: #ffffff;
+  width:1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.section_2{
+  position: relative;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  font-family: PTC55F;
+  background-color: #81B3D2;
+  height:256px;
+}
+.real_town{
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  background-color: #81B3D2;
+}
+.real_town_image{
+  margin-left: 1%;
+}
+.section_3{
+  background-color: #ffffff;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: PTC55F;
+  width: 1200px;
+  height: 200px;
+}
+.section_3_1{
+  width: 33%;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: #ffffff;
+
+}
+
+.section_4{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  font-family: PTC55F;
+  background-color: #81B3D2;
+  height:256px;
+}
+.devils_bridge{
+  margin-left: 5%;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: #81B3D2;
+}
+.section_5{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  height: 200px;
+  font-family: PTC55F;
+  background-color: #EEEEEE;
+}
+.section_5_1{
+  width: 33%;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: #EEEEEE;
+}
+.section_6{
+  margin-top:auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width:1200px;
+  height: 200px;
+  text-align: center;
+  font-family: PTC55F;
+  background-color: #FFFFFF;
+}
+.button_search_in_Sedona{
+  background-color:#766357;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  margin-top: 60px;
+  height: 100px;
+
+}
+/*button {
+   position: relative;
+ }
+
+button span
+{
+   display: none;
+ }
+
+button:active span
+{
+  display: block;
+  position: absolute;
+  top: 100px;
+  left: 0;
+   }*/
+.forma{
+
+     position: absolute;
+     background-color: #ffffff;
+     width:350px;
+     height:400px;
+
+
+     left: 777px;
+
+   }
+.dannie
+{
+ margin-top: 10px;
+ position: relative;
+ padding: 12px;
+border-radius: 3px;
+border:1px solid #cccccc;
+font-size: 20px;
+font-family: PTS56F;
+width:200px;
+}
+.chisla{
+  margin-top: 20px;
+  width:50px;
+}
+.nazvanie{
+  margin-left: 10px;
+  font-family: PTC55F;
+}
+.find{
+  margin-left: 130px;
+  margin-top: 50px;
+}
+
+		input{
+			height:34px;
+      width: 100px;
+      text-align: center;
+      font-size: 26px;
+			border:1px solid #ddd;
+			border-radius:4px;
+      display: inline-block;
+      vertical-align: middle;
+    }
+.section_7{
+
+  margin-left: auto;
+  margin-right: auto;
+  width:1200px;
+}
+.footer{
+  margin-left: auto;
+  margin-right: auto;
+  width:1200px;
+  display: flex;
+}
+.footer_1{
+  margin-top: 20px;
+  text-align: center;
+  width: 33%;
+  font-family: PTC75F;
+}
+@font-face {
+font-family: PTC55F;
+src: url(../sedona/fonts/PTC55F.ttf);
+}
+@font-face {
+font-family: PTC75F;
+src: url(../sedona/fonts/PTC75F.ttf);
+}
+@font-face {
+font-family: PTN57F;
+src: url(../sedona/fonts/PTN57F.ttf);
+}
+@font-face {
+font-family: PTN77F;
+src: url(../sedona/fonts/PTN77F.ttf);
+}
+@font-face {
+font-family: PTS55F;
+src: url(../sedona/fonts/PTS55F.ttf);
+}
+@font-face {
+font-family: PTS56F;
+src: url(../sedona/fonts/PTS56F.ttf);
+}
+@font-face {
+font-family: PTS75F;
+src: url(../sedona/fonts/PTS75F.ttf);
+}
+@font-face {
+font-family: PTS76F;
+src: url(../sedona/fonts/PTS76F.ttf);
+}
